@@ -1,0 +1,21 @@
+database_host: 127.0.0.1
+    database_port: 3306
+    database_name: dev_autocard
+    database_user: dev_autocard
+    database_password: D7a3V1Nn8ShE
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeI# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: autocard
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: autocard
